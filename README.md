@@ -1,10 +1,10 @@
 # Loading-data-into-table-Azure-Synapse-Analytics-using-Copy-Polybase-and-Pipeline
 
-**COPY INTO (Transact-SQL)
+**COPY INTO (Transact-SQL)**
 
 The COPY statement provides the most flexibility for high-throughput data ingestion into Azure Synapse Analytics.
 
-**Use COPY for the following capabilities:
+**Use COPY for the following capabilities**:
 
 Use lower privileged users to load without needing strict CONTROL permissions on the data warehouse.
 
@@ -28,7 +28,7 @@ Automatic schema discovery simplifies the process of defining and mapping source
 
 The automatic table creation process automatically creates the tables and works alongside with automatic schema discovery.
 
-**Design a PolyBase data loading strategy for dedicated SQL pool in Azure Synapse Analytics
+**Design a PolyBase data loading strategy for dedicated SQL pool in Azure Synapse Analytics**
 
 The fastest and most scalable way to load data is through PolyBase. PolyBase is a technology that accesses external data stored in Azure Blob storage or Azure Data Lake Store via the T-SQL language.
 
@@ -46,7 +46,7 @@ Transform the data.
 
 Insert the data into production tables.
 
-**Build a data pipeline in Azure Synapse Analytics
+**Build a data pipeline in Azure Synapse Analytics**
 
 Provision an Azure Synapse Analytics workspace
 
