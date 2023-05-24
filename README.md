@@ -1,0 +1,1 @@
+# Loading-data-into-table-Azure-Synapse-Analytics-using-Copy-Polybase-and-Pipeline
